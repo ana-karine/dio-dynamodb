@@ -3,7 +3,7 @@
 Repositório para o desafio sobre o Amazon DynamoDB:
 
 - Na pasta **projeto-music** estão os arquivos do projeto desenvolvido no curso pelo especialista [Cassiano Peres](https://github.com/cassianobrexbit) 
-- E na pasta **desafio-menu** estão os arquivos do projeto desenvolvido por mim. Tendo como referência o repositório [dio-live-dynamodb](https://github.com/cassianobrexbit/dio-live-dynamodb)
+- Na pasta **desafio-menu** estão os arquivos do projeto desenvolvido por mim. Tendo como referência o repositório [dio-live-dynamodb](https://github.com/cassianobrexbit/dio-live-dynamodb)
 
 
 ## Comandos para execução do experimento:
