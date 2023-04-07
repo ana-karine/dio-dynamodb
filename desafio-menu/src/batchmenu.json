@@ -1,0 +1,76 @@
+{
+    "Menu": [
+        {
+            "PutRequest": {
+                "Item": {
+					"Identifier": {"S": "Food"},
+					"Title": {"S": "Salad"},
+					"Price": {"N": "5"}
+                }
+            }
+        },
+		{
+            "PutRequest": {
+                "Item": {
+					"Identifier": {"S": "Food"},
+					"Title": {"S": "Salad"},
+					"Price": {"N": "10"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+					"Identifier": {"S": "Food"},
+					"Title": {"S": "Roast beef"},
+					"Price": {"N": "35"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Identifier": {"S": "Food"},
+					"Title": {"S": "Lasagna"},
+				    "Price": {"N": "40"}
+                }
+            }
+        },
+		{
+            "PutRequest": {
+                "Item": {
+                    "Identifier": {"S": "Drink"},
+					"Title": {"S": "Soda"},
+				    "Price": {"N": "2.5"}
+                }
+            }
+        },
+		{
+            "PutRequest": {
+                "Item": {
+                    "Identifier": {"S": "Drink"},
+					"Title": {"S": "Fruit juice"},
+				    "Price": {"N": "3"}
+                }
+            }
+        },
+		{
+            "PutRequest": {
+                "Item": {
+                    "Identifier": {"S": "Drink"},
+					"Title": {"S": "Soda"},
+				    "Price": {"N": "2"}
+                }
+            }
+        },
+		{
+            "PutRequest": {
+                "Item": {
+                    "Identifier": {"S": "Drink"},
+					"Title": {"S": "Water"},
+				    "Price": {"N": "1.5"}
+                }
+            }
+        }
+      ]
+}

@@ -1,0 +1,5 @@
+{
+  "Identifier": {"S": "Food"},
+  "Title": {"S": "Fried chicken"},
+  "Price": {"N": "20"}
+}
